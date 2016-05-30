@@ -6,6 +6,10 @@ JavaScript client for the Wikibase Repository web API.
 
 ## Release notes
 
+### 1.1.1 (2016-05-30)
+
+* Fix getLocationAgnosticMwApi behavior in Internet Explorer
+
 ### 1.1.0 (2016-02-17)
 
 * Added optional propertyId parameter to RepoApi::formatValue
