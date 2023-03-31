@@ -30,7 +30,7 @@
 	"devDependencies": {
 		"eslint-config-wikimedia": "0.24.0",
 		"grunt": "1.6.1",
-		"grunt-contrib-qunit": "^5.1.0",
+		"grunt-contrib-qunit": "^7.0.0",
 		"grunt-eslint": "24.0.1",
 		"phantomjs-prebuilt": "^2.1.16",
 		"qunit": "2.19.4",
